@@ -1,0 +1,29 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+    color: #00B7FF;
+}
+
+.box {
+    font-weight: bold;
+    color: white;
+    background-color: #00B2EE;
+    border: 4px solid #DDDDDD;
+    border-radius: 2rem;
+}
+
+.btn_cal {
+    font-weight: bold;
+    color: white;
+    background-color: #00B2EE;
+    border: 2px solid white;
+    border-radius: 2rem;
+}
+
+.btn_cal:hover {
+    background-color: white;
+    color: #00B2EE;
+}
